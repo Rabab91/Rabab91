@@ -1,6 +1,8 @@
 <h1 align="center">HELLO 👋 </h1>
-<h2 align="center"> I'm Rabab BENMASSAOUD </h2>
 
+# WHO I AM ?
+
+<h2 align="center"> I'm Rabab BENMASSAOUD </h2>
 
 - 🌱 I’m currently learning healthcare management / software engineering
 
@@ -13,11 +15,10 @@
   
   
 # LET'S SEE WHAT I DID 
----
 
- ![3d](https://github.com/Rabab91/Rabab91/blob/main/profile-3d-contrib/profile-night-green.svg)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rabab91&theme=dark&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Rabab91&count_private=true&theme=vision-friendly-dark&showicons=true)
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rabab91&theme=light&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Rabab91&count_private=true&theme=vision-friendly-light&showicons=true)
 
 
 <!---
